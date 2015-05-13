@@ -37,16 +37,14 @@ Download
 
 Download **python-recsys**  from `github`_.
 
-.. _`github`: http://github.com/ocelma/python-recsys
+.. _`github`: http://github.com/delvv/python-recsys
 
 Install
 ~~~~~~~
 
 ::
 
-    tar xvfz python-recsys.tar.gz
-    cd python-recsys
-    sudo python setup.py install
+        sudo pip install python-recsys
 
 Example
 ~~~~~~~

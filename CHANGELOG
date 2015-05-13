@@ -1,4 +1,7 @@
-See: https://github.com/ocelma/python-recsys/commits/master
+See: https://github.com/delvv/python-recsys/commits/master
+
+2015-05-12
+    * Updated documentation and setup.py for proper pypi installation
 
 2011-05-09
     * Added MAP (Mean Average Precision) metric and (nose)tests
