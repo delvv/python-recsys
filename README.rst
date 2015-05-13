@@ -27,17 +27,7 @@ To install the dependencies do something like this (Ubuntu):
     sudo apt-get install python-pip
     sudo pip install csc-pysparse networkx divisi2
 
-    # If you don't have pip installed then do:
-    # sudo easy_install csc-pysparse
-    # sudo easy_install networkx
-    # sudo easy_install divisi2
-
-Download
-~~~~~~~~
-
-Download **python-recsys**  from `github`_.
-
-.. _`github`: http://github.com/delvv/python-recsys
+NOTE: You should no longer need to explicitly install dependencies.
 
 Install
 ~~~~~~~
